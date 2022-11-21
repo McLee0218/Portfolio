@@ -8,10 +8,10 @@ function Dashboard() {
     return (
         <div className='dashboardWrapper'>
             <GitHubCard />
-            <ResumeCard />
-            <LinkedinCard />
-            <SpecialProjectCard />
-            <ContactCard />
+            <GitHubCard />
+            <GitHubCard />
+            <GitHubCard />
+            
 
         </div>
     )

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/Portfolio/static/js/main.7ccd7a58.js",
+    "static/media/mona-the-rivetertocat.png": "/Portfolio/static/media/mona-the-rivetertocat.bd8847405e7e6a4861b0.png",
+    "index.html": "/Portfolio/index.html",
+    "main.7ccd7a58.js.map": "/Portfolio/static/js/main.7ccd7a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7ccd7a58.js"
+  ]
+}
