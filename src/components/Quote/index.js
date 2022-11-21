@@ -5,10 +5,10 @@ import '../style.css';
 function Quote() {
   return (
     <div className='quote'>
-        <div className="openingQuote" title='Opening'>Opening</div>
+        <div className="openingQuote" title='Opening'></div>
         
         <blockquote>
-            "You never kow where your actions will lead to. But if you dont do anything they will lead you nowhere."
+            "You never know where your actions will lead to. But if you dont do anything they will lead you nowhere."
         </blockquote>
 
         <div className='character' title='MahatmaGandhi'>~Mahatma Gandhi</div>
