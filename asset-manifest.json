@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Portfolio/static/js/main.dc8893c2.js",
-    "static/js/787.f6941ad1.chunk.js": "/Portfolio/static/js/787.f6941ad1.chunk.js",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/Portfolio/static/js/main.7ccd7a58.js",
+    "static/media/mona-the-rivetertocat.png": "/Portfolio/static/media/mona-the-rivetertocat.bd8847405e7e6a4861b0.png",
     "index.html": "/Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Portfolio/static/css/main.073c9b0a.css.map",
-    "main.dc8893c2.js.map": "/Portfolio/static/js/main.dc8893c2.js.map",
-    "787.f6941ad1.chunk.js.map": "/Portfolio/static/js/787.f6941ad1.chunk.js.map"
+    "main.7ccd7a58.js.map": "/Portfolio/static/js/main.7ccd7a58.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dc8893c2.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7ccd7a58.js"
   ]
 }
