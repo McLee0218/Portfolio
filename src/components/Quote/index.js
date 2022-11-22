@@ -13,7 +13,7 @@ function Quote() {
 
         <div className='character' title='MahatmaGandhi'>~Mahatma Gandhi</div>
 
-        <a href='/dashboard'><button>Who Is Tameka McLean</button></a>
+        <a href='/Dashboard'><button>Who Is Tameka McLean</button></a>
     </div>
   )
 }

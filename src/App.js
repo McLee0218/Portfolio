@@ -3,7 +3,7 @@
 import { React } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Quote from "./components/Quote";
-import {ContactCard, Dashboard, GitHubCard, LinkedinCard, ResumeCard, SpecialProjectCard} from "./components/Dashboard";
+import { Dashboard, GitHubCard} from "./components/Dashboard";
 
 
 
@@ -17,14 +17,6 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />}>
           </Route>
           <Route path="/gitHub" element={<GitHubCard />}>
-          </Route>
-          <Route path="/resume" element={<ResumeCard />}>
-          </Route>
-          <Route path="/linkedin" element={<LinkedinCard />}>
-          </Route>
-          <Route path="/projects" element={<SpecialProjectCard />}>
-          </Route>
-          <Route path="/contctMe" element={<ContactCard />}>
           </Route>
         </Routes>
       </Router>

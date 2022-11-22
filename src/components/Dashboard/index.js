@@ -11,23 +11,25 @@ function Dashboard() {
             <GitHubCard />
             <GitHubCard />
             <GitHubCard />
-            
+            <GitHubCard />
 
         </div>
     )
 }
 
-function GitHubCard() {
+function GitHubCard(props) {
     return (
-        <div className="dashCard">
+        <section>
+        <div id="dashCard" className="dashCard">
             <div className="dashCard_body">
             <button>
-                <img style={{width: "30%"}} src={Mona} alt='mona-the-rivertcat.png'/>
+                <img src={Mona} alt='monaOctacat' style={{ height:200, height:200}}/>
                     <h2 className='dashCard_title'></h2>
                     <p className='dashCard_description'>This has been an amazing but trying three months of learning new things with new people, exploring the world of tech and getting ready for an illustrious career as a developer. Preview my gitHub to see what ive been working on</p>
                     </button>
             </div>
         </div>
+        </section>
     )
 }
 
@@ -36,7 +38,7 @@ function ResumeCard() {
         <div className="dashCard1">
             <div className="dashCard_body1">
             <button>
-                <img style={{width: "30%"}} src={Mona} alt='mona-the-rivertcat.png'/>
+                <img style={{width: fit}} src={Mona} alt='mona-the-rivertcat.png'/>
                     <h2 className='dashCard_title1'></h2>
                     <p className='dashCard_description1'>This has been an amazing but trying three months of learning new things with new people, exploring the world of tech and getting ready for an illustrious career as a developer. Preview my gitHub to see what ive been working on</p>
                     </button>
