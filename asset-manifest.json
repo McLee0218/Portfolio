@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b29afb4b.css",
+    "main.css": "/Portfolio/static/css/main.4185b175.css",
     "main.js": "/Portfolio/static/js/main.1e293874.js",
     "static/media/pexels-jeremy-bishop-8241100.jpg": "/Portfolio/static/media/pexels-jeremy-bishop-8241100.63115a2844a0bf1a1dd2.jpg",
     "static/media/mona-the-rivetertocat.png": "/Portfolio/static/media/mona-the-rivetertocat.bd8847405e7e6a4861b0.png",
     "static/media/project.png": "/Portfolio/static/media/project.433d0b618b57bb38c02c.png",
     "static/media/resume-icon.jpeg": "/Portfolio/static/media/resume-icon.20e4f9d8933fa7749713.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.b29afb4b.css.map": "/Portfolio/static/css/main.b29afb4b.css.map",
+    "main.4185b175.css.map": "/Portfolio/static/css/main.4185b175.css.map",
     "main.1e293874.js.map": "/Portfolio/static/js/main.1e293874.js.map"
   },
   "entrypoints": [
-    "static/css/main.b29afb4b.css",
+    "static/css/main.4185b175.css",
     "static/js/main.1e293874.js"
   ]
 }
