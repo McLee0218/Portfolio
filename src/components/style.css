@@ -2,7 +2,7 @@ body {
     background-image: url('../Images/pexels-jeremy-bishop-8241100.jpg');
 }
 .quote {
-    /* background-color: antiquewhite; */
+ 
     font-family: 'Gloria Hallelujah', cursive;
     display: flex;
     flex-direction: column;

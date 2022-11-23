@@ -1,5 +1,5 @@
 import React from 'react'
-import '../mystyle.css';
+import '../style.css';
 
 
 function Quote() {
