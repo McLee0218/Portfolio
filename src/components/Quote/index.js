@@ -1,13 +1,12 @@
 import React from 'react'
-import '../style.css';
+import '../mystyle.css';
 
 
 function Quote() {
   return (
     <div className='quote'>
-        <div className="openingQuote" title='Opening'></div>
         
-        <blockquote>
+        <blockquote className="openingQuote" title='Opening'>
             "You never know where your actions will lead to. But if you dont do anything they will lead you nowhere."
         </blockquote>
 
