@@ -60,6 +60,4 @@ function GitHubCard(props) {
 }
 
 
-{/* <button className='dashCard_btn'>Enter Here</button> */}
-
 export { Dashboard, GitHubCard }
