@@ -14,7 +14,7 @@ function App() {
         <Routes>
           <Route path="/portfolio" element={<Quote />}>
           </Route>
-          <Route path="/dashboard" element={<Dashboard />}>
+          <Route path="/Dashboard" element={<Dashboard />}>
           </Route>
           <Route path="/gitHub" element={<GitHubCard />}>
           </Route>
