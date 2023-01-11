@@ -1,5 +1,6 @@
 import React from 'react'
 import '../style.css';
+import { Link } from 'react-router-dom'
 // import '../Dashboard'
 
 
@@ -13,7 +14,7 @@ function Quote() {
 
         <div className='character' title='MahatmaGandhi'>~Mahatma Gandhi</div>
 
-        <a href='/Dashboard'><button>Who Is Tameka McLean</button></a>
+        <Link to='/Dashboard'><button>Who Is Tameka McLean</button></Link>
     </div>
   )
 }
